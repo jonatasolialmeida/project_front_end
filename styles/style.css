@@ -1,0 +1,19 @@
+#title {
+    color: blueviolet;
+    background-color: cyan;
+    width: 960px;
+  border: 2px solid rgb(55, 25, 167);
+  text-align: center;
+  margin-bottom: 2rem;
+  
+}
+
+p {
+    color: grey;
+    width: 250px;
+  border: 1px solid black;
+  }
+
+span{
+    color: blue;
+}  
